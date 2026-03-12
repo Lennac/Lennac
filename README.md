@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Lennac
-- 👀 I’m interested in full stack development and sports analytics.
-- 🌱 I’m currently learning .NET
-- 💞️ I’m looking to collaborate on any application that is sports related.
-- 📫 How to reach me ... lennac@protonmail.com
+I'm a DevOps Engineer with experience as a .NET Applications Developer
 
 <!---
 Lennac/Lennac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
